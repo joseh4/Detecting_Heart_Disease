@@ -46,16 +46,17 @@ I used SMOTE to balance the amount of patients with heart disase and patients wi
 
 ### Methodology
 
-Logistic Regression
-Linear Regression
-Data manipulation
-Data Visulaization
-GridSearch
-SMOTE
-Confusion Matrix
+-Logistic Regression
+-Linear Regression
+-Data manipulation
+-Data Visulaization
+-GridSearch
+-SMOTE
+-Confusion Matrix
 
 ### Project Links
 
+Link to the Dataset <b>[Kaggle](https://www.kaggle.com/ronitf/heart-disease-uci)</b>
 
 #### Technical Notebook
 <b>[Technical Notebook](https://github.com/joseh4/Detecting_Heart_Disease/blob/main/Machine_Learning_Notebook.ipynb)</b>
