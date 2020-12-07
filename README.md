@@ -46,13 +46,13 @@ I used SMOTE to balance the amount of patients with heart disase and patients wi
 
 ### Methodology
 
--Logistic Regression
--Linear Regression
--Data manipulation
--Data Visulaization
--GridSearch
--SMOTE
--Confusion Matrix
+<li>Logistic Regression
+<li>Linear Regression
+<li>Data manipulation
+<li>Data Visulaization
+<li>GridSearch
+<li>SMOTE
+<li>Confusion Matrix
 
 ### Project Links
 
