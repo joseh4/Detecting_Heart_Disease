@@ -16,22 +16,22 @@ disease (American Heart Association).
 This is a serious issue that needs to be addressed and every little bit of information to stop/identify it is necessary.
 
 ### Project Goals
- - Identify patients with/without heart disease based onthe following factors:
+ Identify patients with/without heart disease based onthe following factors:
  <ul>
-  <li>age<li/>
-  <li>sex<li/>
-  <li>cp<li/>
-  <li>trestbps<li/>	
-  <li>chol<li/>	
-  <li>fbs<li/>	
-  <li>restecg<li/>
-  <li>thalach<li/>	
-  <li>exang<li/>
-  <li>oldpeak<li/>
-  <li>slope<li/>	
-  <li>ca<li/>
-  <li>thal<li/>
-  <li>target<li/>
+  <li>Age
+  <li>Sex
+  <li>Chest pain type
+  <li>Resting bp in mmHg
+  <li>Cholesterol	
+  <li>Fasting blood sugar
+  <li>Resting electrocardiographic results
+  <li>Maximum heart rate achieved	
+  <li>Exercise induced angina
+  <li>ST depression induced by exercise relative to rest
+  <li>The slope of the peak exercise ST segment
+  <li>Number of major vessels (0-3) colored by flourosopy
+  <li>Thallium
+  <li>Target
 
 
 ### Data
